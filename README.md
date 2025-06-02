@@ -7,7 +7,7 @@ A simple and efficient URL Shortener built using Node.js. This application allow
 
 ⚙️ Installation
 1.Clone the repository
-    git clone https://github.com/your-username/url-shortener.git
+    git clone https://github.com/prasant-kumar-1/url-shortener.git
     cd url-shortener
 2.Install dependencies
     npm install
