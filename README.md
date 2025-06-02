@@ -6,6 +6,8 @@ A simple and efficient URL Shortener built using Node.js. This application allow
 🔄 Redirect to original URL using the short link
 
 ⚙️ Installation
+
+After download the code delete the links.json of data folder
 1.Clone the repository
     git clone https://github.com/prasant-kumar-1/url-shortener.git
     cd url-shortener
